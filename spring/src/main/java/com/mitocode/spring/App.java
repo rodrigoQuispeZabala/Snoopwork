@@ -37,7 +37,7 @@ public class App {
 	}
 	*/
 		
-	ApplicationContext app= new ClassPathXmlApplicationContext("com/mitocode/xml/beans.xml");
+	ApplicationContext app= new ClassPathXmlApplicationContext("beans.xml");
 	Jugador jug = (Jugador)app.getBean("jugador");
 	IEquipo eq= (IEquipo) app.getBean("barcelona");
 	

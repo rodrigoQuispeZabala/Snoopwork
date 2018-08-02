@@ -47,8 +47,7 @@ public class App {
 	
 	
 	
-	//FUNCIONA TODO RODRIGO TIENE RAZON
-	
+	//FUNCIONA TODO JUAN TIENE RAZON
 	
 	
 	

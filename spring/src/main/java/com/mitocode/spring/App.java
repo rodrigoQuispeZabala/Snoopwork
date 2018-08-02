@@ -42,6 +42,7 @@ public class App {
 	IEquipo eq= (IEquipo) app.getBean("barcelona");
 	
 	System.out.println(jug.getNombre()+" juega en: "+eq.mostrar());
+	//asfdasfasf
 	//System.out.println(eq.mostrar());
 	
 	

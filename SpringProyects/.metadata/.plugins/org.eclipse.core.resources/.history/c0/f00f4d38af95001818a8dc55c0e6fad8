@@ -1,0 +1,17 @@
+package com.mitocode.beans;
+
+public class Pais {
+	
+	private String nombreP;
+
+	public String getNombreP() {
+		return nombreP;
+	}
+
+	public void setNombreP(String nombreP) {
+		this.nombreP = nombreP;
+	}
+	
+	
+
+}

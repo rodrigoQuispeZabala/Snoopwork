@@ -48,9 +48,7 @@ public class App {
 	
 	
 	//FUNCIONA TODO JUAN TIENE RAZON
-	
-	
-	
+		
 	
 	
 	
